@@ -1,2 +1,3 @@
 # Hello-world
 Initializing....
+Wakar Haque, Trade support Analyst, Pythonist, C++er, 
