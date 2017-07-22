@@ -1,3 +1,0 @@
-# Hello-world
-Initializing....
- WH , PHTHONIST, DJANGO
